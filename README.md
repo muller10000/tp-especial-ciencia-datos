@@ -2,6 +2,8 @@ enlace del informe (drive): https://docs.google.com/document/d/1IfxvnDEw9_l7Gduc
 
 instrucciones de ejecución:
 
+YO USE PYTHON 3.12.2
+
 1) Abre una terminal o consola.
 2) Ejecuta el comando git clone <URL_DEL_REPOSITORIO>, reemplazando <URL_DEL_REPOSITORIO> con el enlace de tu repositorio en GitHub. Esto descargará todos los archivos en una carpeta local.
 3) En la terminal, navega a la carpeta donde clonaste el repositorio usando cd <NOMBRE_DEL_PROYECTO>, reemplazando <NOMBRE_DEL_PROYECTO> por el nombre de la carpeta
